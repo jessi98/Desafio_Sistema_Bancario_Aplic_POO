@@ -21,6 +21,3 @@ Este projeto foi construído durante o **Bootcamp Backend com Python da DIO**.
   - Conta gerencia saldo e operações,
   - Transação gerencia o registro da operação.
 
----
-
-## Funcionalidades man
