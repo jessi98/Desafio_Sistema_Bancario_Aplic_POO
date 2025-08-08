@@ -1,4 +1,4 @@
-# 🏦 Sistema Bancário em Python com POO
+# 🏦 Sistema Bancário em Python com POO - Etapa 3
 
 Projeto desenvolvido durante o **Bootcamp de Back-End com Python** da [DIO (Digital Innovation One)](https://www.dio.me/), com foco em aplicar os princípios de **Programação Orientada a Objetos (POO)** em Python.
 
